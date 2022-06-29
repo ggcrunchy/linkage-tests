@@ -27,7 +27,7 @@ scene, although somewhat basic.
 
 A newer video discussing some of this may be found [here](https://www.youtube.com/watch?v=qolJXXjtWK8).
 
-==============
+---
 
 I don't remember why there are three iterations of the project, so I'm just including
 them all, and will perhaps sort them out later. In any case, I've only really looked
